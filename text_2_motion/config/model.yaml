@@ -1,0 +1,15 @@
+model:
+  text_encoding_dims: [2048, 1024, 512]
+  text_embedding_dim: 4096
+  kp_dim: 392
+  domain_type: "gaussian"
+  activation_fn: "gelu"
+  num_layers: 1
+  d_model: 512
+  num_heads: 8
+  hidden_dim: 1024
+  dropout: 0.1
+  iter_pred: true
+  attn_mask: true
+  fix_attention: true
+  device: "cuda"
