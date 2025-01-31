@@ -42,6 +42,6 @@ We sincerely thank Xinpeng Liu, Qiaojun Yu, and Yonglu Li for providing insightf
 T2M generation. We thank Yichao Zhong, Tianlang Zhao, Tongcheng Zhang, and Jinbo Hu for their valuable feedback 
 on different stages of the work. 
 
-MDM Model: [EricGuo5513 / HumanML3D](https://github.com/GuyTevet/motion-diffusion-model)
+MDM Model: [GuyTevet / motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model)
 
-HumanML3D: [GuyTevet / motion-diffusion-model](https://github.com/EricGuo5513/HumanML3D)
+HumanML3D: [EricGuo5513 / HumanML3D](https://github.com/EricGuo5513/HumanML3D)
