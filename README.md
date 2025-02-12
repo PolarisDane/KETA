@@ -1,6 +1,6 @@
 ## KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment
 
-> Submitted to ICCVML 2025.
+> Submitted to IJCNN 2025.
 
 ![](results.svg)
 
